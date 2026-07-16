@@ -1,0 +1,4 @@
+Notebooks_Peptide-ID-and-Quant-of-MS-Data/data/
+.venv/
+__pycache__/
+*.pyc
